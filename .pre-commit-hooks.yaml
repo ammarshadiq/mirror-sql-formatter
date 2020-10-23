@@ -3,4 +3,4 @@
     entry: sql-formatter
     language: node
     files: .*\.(sql)$
-    additional_dependencies: ['sql-formatter']
+    additional_dependencies: ['sql-formatter-cli']

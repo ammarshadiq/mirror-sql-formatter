@@ -1,6 +1,6 @@
--   id: sql-formatter
+-   id: sql-formatter-cli
     name: NodeJS SQL syntax formatter (sql-formatter)
-    entry: sql-formatter
+    entry: sql-formatter-cli
     language: node
     files: .*\.(sql)$
     additional_dependencies: ['sql-formatter-cli']

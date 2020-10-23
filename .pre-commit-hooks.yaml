@@ -2,6 +2,6 @@
     name: NodeJS SQL syntax formatter (sql-formatter)
     entry: sql-formatter-dsi
     language: node
-    args: ["-w"]
+    args: ["-i"]
     files: .*\.(sql)$
     additional_dependencies: ['sql-formatter-dsi']

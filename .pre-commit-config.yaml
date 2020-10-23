@@ -2,4 +2,4 @@ repos:
   -   repo: https://github.com/ammarshadiq/mirror-sql-formatter
       rev: main
       hooks:
-        -   id: sql-formatter
+        -   id: sql-formatter-dsi

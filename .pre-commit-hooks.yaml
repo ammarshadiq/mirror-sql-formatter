@@ -1,0 +1,6 @@
+-   id: sql-formatter
+    name: NodeJS SQL syntax formatter (sql-formatter)
+    entry: sql-formatter
+    language: node
+    files: .*\.(sql)$
+    additional_dependencies: ['sql-formatter']

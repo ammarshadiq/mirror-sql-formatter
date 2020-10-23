@@ -1,0 +1,5 @@
+repos:
+  -   repo: https://github.com/ammarshadiq/mirros-sql-formatter
+      rev: master
+      hooks:
+        -   id: sql-formatter

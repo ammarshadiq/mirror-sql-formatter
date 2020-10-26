@@ -1,5 +1,5 @@
 -   id: sql-formatter-dsi
-    name: NodeJS SQL syntax formatter (sql-formatter)
+    name: sql-formatter-dsi
     entry: sql-formatter-dsi
     language: node
     args: ["-w"]
